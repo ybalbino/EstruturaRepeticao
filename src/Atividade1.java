@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Lista1 {
+public class Atividade1 {
     public static void main(String[] args) {
         int contador = 1;
 
